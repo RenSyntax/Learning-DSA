@@ -2,7 +2,7 @@
 In this **Repo** I would documment my whole journey of learning all the Topics of DSA.
 
 ## Topics To Learn:
-- Learn the **basics**: [x]
+- Learn the **basics**: * [x]
    - Time/Space Complexity - [ ]
    - basic math - [ ]
    - recursion intro - [ ]
