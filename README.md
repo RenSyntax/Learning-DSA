@@ -2,96 +2,96 @@
 In this **Repo** I would documment my whole journey of learning all the Topics of DSA.
 
 ## Topics To Learn:
-- Learn the **basics**: * [x]
-   - Time/Space Complexity - [ ]
-   - basic math - [ ]
-   - recursion intro - [ ]
+- [ ] Learn the **basics**:
+   - [ ] Time/Space Complexity
+   - [ ] basic math
+   - [ ] recursion intro
 ----
-- Learn Important **Sorting Techniques**: - [ ]
-   - Bubble - [ ]
-   - Selection - [ ]
-   - Insertion - [ ]
-   - Merge - [ ]
-   - Quick, etc. - [ ]
+- [ ] Learn Important **Sorting Techniques**:
+   - [ ] Bubble
+   - [ ] Selection
+   - [ ] Insertion
+   - [ ] Merge
+   - [ ] Quick, etc.
 ----
-- Solve Problems on **Arrays** - [ ]
-   - Easy → Medium → Hard - [ ]
-   - Including Kadane - [ ]
-   - stock buy/sell, etc. - [ ]
+- [ ] Solve Problems on **Arrays**
+   - [ ] Easy → Medium → Hard
+   - [ ] Including Kadane
+   - [ ] stock buy/sell, etc.
 ---- 
-- **Binary Search** - [ ]
-   - 1D - [ ]
-   - 2D - [ ]
-   - Search Space on Answer - [ ]
-   - Aggressive binary search - [ ]
+- [ ] **Binary Search**
+   - [ ] 1D
+   - [ ] 2D
+   - [ ] Search Space on Answer
+   - [ ] Aggressive binary search
 ---- 
-- **Strings** - [ ]
-   - Basic + Medium problems - [ ]
+- [ ] **Strings**
+   - Basic + Medium problems
 ----
-- Learn **LinkedList** - [ ]
-   - Single LL - [ ]
-   - Double LL - [ ]
-   - Medium + Hard problems - [ ]
+- [ ] Learn **LinkedList**
+   - [ ] Single LL
+   - [ ] Double LL
+   - [ ] Medium + Hard problems
 ----
-- **Recursion** & **Backtracking** - [ ]
-   - Subsets - [ ]
-   - Permutations - [ ]
-   - N-Queens, etc. - [ ]
+- [ ] **Recursion** & **Backtracking**
+   - [ ] Subsets
+   - [ ] Permutations
+   - [ ] N-Queens, etc.
 ----
-- **Stacks** & **Queues** - [ ]
-   - including monotonic patterns - [ ]
+- [ ] **Stacks** & **Queues**
+   - [ ] including monotonic patterns
 ----
-- **Hashing** - [ ]
-   - Maps - [ ]
-   - frequency counting - [ ]
-   - subarray problems - [ ]
+- [ ] **Hashing**
+   - [ ] Maps 
+   - [ ] frequency counting 
+   - [ ] subarray problems 
 ----
-- **Heaps** - [ ]
-   - Min/Max Heap - [ ]
-   - kth largest/smallest - [ ]
-   - merge k lists, etc. - [ ]
+- [ ] **Heaps**
+   - [ ] Min/Max Heap
+   - [ ] kth largest/smallest
+   - [ ] merge k lists, etc.
 ----
-- **Binary Trees** - [ ]
-   - Traversals - [ ]
-   - Level order - [ ]
-   - Height/Diameter - [ ]
-   - LCA, etc. - [ ]
+- [ ] **Binary Trees**
+   - [ ] Traversals
+   - [ ] Level order
+   - [ ] Height/Diameter
+   - [ ] LCA, etc.
 ----
-- **Binary Search** Trees - [ ]
-   - BST intro + operations + problems - [ ]
+- [ ] **Binary Search** Trees
+   - [ ] BST intro + operations + problems
 ---- 
-- **Trees** Miscellaneous: - [ ]
-   - AVL basics - [ ]
-   - Morris traversal, etc. - [ ]
+- [ ] **Trees** Miscellaneous:
+   - [ ] AVL basics
+   - [ ] Morris traversal, etc.
 ----
-- **Graphs** - [ ]
-   - BFS/DFS - [ ]
-   - Cycle detection - [ ]
-   - Shortest Path - [ ]
-   - MST - [ ]
-   - Topological Sort - [ ]
-   - Strongly Connected Components - [ ]
+- [ ] **Graphs**
+   - [ ] BFS/DFS
+   - [ ] Cycle detection
+   - [ ] Shortest Path
+   - [ ] MST
+   - [ ] Topological Sort
+   - [ ] Strongly Connected Components
 ----
-- **Dynamic Programming** - [ ]
-   - Classic DP patterns - [ ]
-   - 1D - [ ]
-   - 2D - [ ]
-   - state compression - [ ]
-   - digit DP, etc. - [ ]
+- [ ] **Dynamic Programming**
+   - [ ] Classic DP patterns
+   - [ ] 1D
+   - [ ] 2D 
+   - [ ] state compression
+   - [ ] digit DP, etc.
 ----
-- **Tries** - [ ]
-   - Prefix tree - [ ]
-   - autocomplete - [ ]
-   - XOR trie - [ ]
+- [ ] **Tries**
+   - [ ] Prefix tree
+   - [ ] autocomplete
+   - [ ] XOR trie
 ----
-- **Greedy Algorithms** - [ ]
+- [ ] **Greedy Algorithms**
 ----
-- **Bit Manipulation** / **Advanced Math** - [ ]
+- [ ] **Bit Manipulation** / **Advanced Math**
 ----  
-- **Advanced topics** - [ ]
-   - Segment Trees - [ ]
-   - Fenwick Tree / Binary Indexed Tree - [ ]
-   - Disjoint Set Union (DSU), etc. - [ ]
+- [ ] **Advanced topics**
+   - [ ] Segment Trees
+   - [ ] Fenwick Tree / Binary Indexed Tree
+   - [ ] Disjoint Set Union (DSU), etc.
 
 
 
