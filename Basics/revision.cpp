@@ -1,4 +1,4 @@
-// we can include all the libraries with:
+
 
 #include <bits/stdc++.h>
 using namespace std;
