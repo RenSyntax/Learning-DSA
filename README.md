@@ -26,7 +26,7 @@ In this **Repo** I would documment my whole journey of learning all the Topics o
    - [ ] Aggressive binary search
 ---- 
 - [ ] **Strings**
-   - Basic + Medium problems
+   - [ ] Basic + Medium problems
 ----
 - [ ] Learn **LinkedList**
    - [ ] Single LL
